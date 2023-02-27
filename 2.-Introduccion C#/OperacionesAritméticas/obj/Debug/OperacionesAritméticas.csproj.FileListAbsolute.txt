@@ -1,0 +1,8 @@
+D:\bootcamp\C#\OperacionesAritméticas\bin\Debug\OperacionesAritméticas.exe.config
+D:\bootcamp\C#\OperacionesAritméticas\bin\Debug\OperacionesAritméticas.exe
+D:\bootcamp\C#\OperacionesAritméticas\bin\Debug\OperacionesAritméticas.pdb
+D:\bootcamp\C#\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.csproj.AssemblyReference.cache
+D:\bootcamp\C#\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.csproj.SuggestedBindingRedirects.cache
+D:\bootcamp\C#\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.csproj.CoreCompileInputs.cache
+D:\bootcamp\C#\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.exe
+D:\bootcamp\C#\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.pdb

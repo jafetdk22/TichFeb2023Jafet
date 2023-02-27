@@ -1,0 +1,8 @@
+D:\bootcamp\C#\MenuGeneral\bin\Debug\MenuGeneral.exe.config
+D:\bootcamp\C#\MenuGeneral\bin\Debug\MenuGeneral.exe
+D:\bootcamp\C#\MenuGeneral\bin\Debug\MenuGeneral.pdb
+D:\bootcamp\C#\MenuGeneral\obj\Debug\MenuGeneral.csproj.AssemblyReference.cache
+D:\bootcamp\C#\MenuGeneral\obj\Debug\MenuGeneral.csproj.SuggestedBindingRedirects.cache
+D:\bootcamp\C#\MenuGeneral\obj\Debug\MenuGeneral.csproj.CoreCompileInputs.cache
+D:\bootcamp\C#\MenuGeneral\obj\Debug\MenuGeneral.exe
+D:\bootcamp\C#\MenuGeneral\obj\Debug\MenuGeneral.pdb

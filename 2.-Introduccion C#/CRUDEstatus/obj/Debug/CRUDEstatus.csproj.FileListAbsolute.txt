@@ -1,0 +1,8 @@
+D:\bootcamp\C#\CRUDEstatus\bin\Debug\CRUDEstatus.exe.config
+D:\bootcamp\C#\CRUDEstatus\bin\Debug\CRUDEstatus.exe
+D:\bootcamp\C#\CRUDEstatus\bin\Debug\CRUDEstatus.pdb
+D:\bootcamp\C#\CRUDEstatus\obj\Debug\CRUDEstatus.csproj.AssemblyReference.cache
+D:\bootcamp\C#\CRUDEstatus\obj\Debug\CRUDEstatus.csproj.SuggestedBindingRedirects.cache
+D:\bootcamp\C#\CRUDEstatus\obj\Debug\CRUDEstatus.csproj.CoreCompileInputs.cache
+D:\bootcamp\C#\CRUDEstatus\obj\Debug\CRUDEstatus.exe
+D:\bootcamp\C#\CRUDEstatus\obj\Debug\CRUDEstatus.pdb

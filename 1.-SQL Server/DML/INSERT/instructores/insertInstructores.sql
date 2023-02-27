@@ -1,0 +1,55 @@
+INSERT INTO [dbo].[Instructores]
+           ([nombre]
+           ,[primerApellido]
+           ,[segundoApellido]
+           ,[correo]
+           ,[telefono]
+           ,[fechaNacimiento]
+           ,[rfc]
+           ,[curp]
+           ,[cuotaHora]
+           ,[activo])
+     VALUES
+           ('Juan',
+			'Pérez',
+            'García',
+            'juan.perez@gmail.com',
+			55-1234-5678,
+			'1990-01-01',
+            'PEJG901010',
+            'PEJG901010HMLNSD08',
+            100.00,
+            1);
+INSERT INTO   Instructores  VALUES
+           ('María',
+			'Martínez',
+            'Rodríguez',
+            'maria.martinez@hotmail.com',
+			55-2345-6789,
+			'1985-03-15',
+            'MAMR850315',
+            'MAMR850315HMLNSD07',
+            85.00,
+            1);
+INSERT INTO   Instructores  VALUES
+           ('José',
+			'García',
+            'Hernández',
+            'jose.garcia@yahoo.com',
+			55-3456-7890,
+			'1988-07-12',
+            'JOGH880712',
+            'JOGH880712HMLNSD08',
+            95.00,
+            0);
+INSERT INTO   Instructores  VALUES
+           ('Ana',
+			'López',
+            'Sánchez',
+            'ana.lopez@outlook.com',
+			55-4567-8901,
+			'1983-05-18',
+            'ALOS830518',
+            'ALOS830518HMLNSD07',
+            75.00,
+            1);

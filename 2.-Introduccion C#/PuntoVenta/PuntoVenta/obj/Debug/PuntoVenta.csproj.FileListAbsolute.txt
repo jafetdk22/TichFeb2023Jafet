@@ -1,0 +1,11 @@
+D:\bootcamp\C#\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe.config
+D:\bootcamp\C#\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.exe
+D:\bootcamp\C#\PuntoVenta\PuntoVenta\bin\Debug\PuntoVenta.pdb
+D:\bootcamp\C#\PuntoVenta\PuntoVenta\bin\Debug\Newtonsoft.Json.dll
+D:\bootcamp\C#\PuntoVenta\PuntoVenta\bin\Debug\Newtonsoft.Json.xml
+D:\bootcamp\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.AssemblyReference.cache
+D:\bootcamp\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.SuggestedBindingRedirects.cache
+D:\bootcamp\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CoreCompileInputs.cache
+D:\bootcamp\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.csproj.CopyComplete
+D:\bootcamp\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.exe
+D:\bootcamp\C#\PuntoVenta\PuntoVenta\obj\Debug\PuntoVenta.pdb

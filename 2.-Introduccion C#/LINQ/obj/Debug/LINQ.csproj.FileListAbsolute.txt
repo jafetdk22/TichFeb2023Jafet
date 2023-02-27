@@ -1,0 +1,11 @@
+D:\bootcamp\C#\LINQ\bin\Debug\LINQ.exe.config
+D:\bootcamp\C#\LINQ\bin\Debug\LINQ.exe
+D:\bootcamp\C#\LINQ\bin\Debug\LINQ.pdb
+D:\bootcamp\C#\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\bootcamp\C#\LINQ\obj\Debug\LINQ.csproj.SuggestedBindingRedirects.cache
+D:\bootcamp\C#\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\bootcamp\C#\LINQ\obj\Debug\LINQ.exe
+D:\bootcamp\C#\LINQ\obj\Debug\LINQ.pdb
+D:\bootcamp\C#\LINQ\bin\Debug\Newtonsoft.Json.dll
+D:\bootcamp\C#\LINQ\bin\Debug\Newtonsoft.Json.xml
+D:\bootcamp\C#\LINQ\obj\Debug\LINQ.csproj.CopyComplete

@@ -1,0 +1,8 @@
+D:\bootcamp\C#\IMSS\obj\Debug\IMSS.csproj.AssemblyReference.cache
+D:\bootcamp\C#\IMSS\obj\Debug\IMSS.csproj.SuggestedBindingRedirects.cache
+D:\bootcamp\C#\IMSS\obj\Debug\IMSS.csproj.CoreCompileInputs.cache
+D:\bootcamp\C#\IMSS\bin\Debug\IMSS.exe.config
+D:\bootcamp\C#\IMSS\bin\Debug\IMSS.exe
+D:\bootcamp\C#\IMSS\bin\Debug\IMSS.pdb
+D:\bootcamp\C#\IMSS\obj\Debug\IMSS.exe
+D:\bootcamp\C#\IMSS\obj\Debug\IMSS.pdb

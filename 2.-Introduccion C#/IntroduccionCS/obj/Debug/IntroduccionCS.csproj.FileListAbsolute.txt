@@ -1,0 +1,8 @@
+D:\bootcamp\C#\IntroduccionCS\bin\Debug\IntroduccionCS.exe.config
+D:\bootcamp\C#\IntroduccionCS\bin\Debug\IntroduccionCS.exe
+D:\bootcamp\C#\IntroduccionCS\bin\Debug\IntroduccionCS.pdb
+D:\bootcamp\C#\IntroduccionCS\obj\Debug\IntroduccionCS.csproj.AssemblyReference.cache
+D:\bootcamp\C#\IntroduccionCS\obj\Debug\IntroduccionCS.csproj.SuggestedBindingRedirects.cache
+D:\bootcamp\C#\IntroduccionCS\obj\Debug\IntroduccionCS.csproj.CoreCompileInputs.cache
+D:\bootcamp\C#\IntroduccionCS\obj\Debug\IntroduccionCS.exe
+D:\bootcamp\C#\IntroduccionCS\obj\Debug\IntroduccionCS.pdb

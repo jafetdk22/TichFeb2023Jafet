@@ -1,0 +1,8 @@
+D:\bootcamp\C#\CrudEstados\bin\Debug\CrudEstados.exe.config
+D:\bootcamp\C#\CrudEstados\bin\Debug\CrudEstados.exe
+D:\bootcamp\C#\CrudEstados\bin\Debug\CrudEstados.pdb
+D:\bootcamp\C#\CrudEstados\obj\Debug\CrudEstados.csproj.AssemblyReference.cache
+D:\bootcamp\C#\CrudEstados\obj\Debug\CrudEstados.csproj.SuggestedBindingRedirects.cache
+D:\bootcamp\C#\CrudEstados\obj\Debug\CrudEstados.csproj.CoreCompileInputs.cache
+D:\bootcamp\C#\CrudEstados\obj\Debug\CrudEstados.exe
+D:\bootcamp\C#\CrudEstados\obj\Debug\CrudEstados.pdb
